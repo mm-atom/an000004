@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/an000004",
-	"version": "1.0.0",
+	"version": "1.0.202003071258",
 	"description": "IWebResult",
 	"scripts": {
 		"test": "tsc && ava ./tests/*.js",
